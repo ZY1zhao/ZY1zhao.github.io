@@ -15,4 +15,4 @@ Publications
 
 News
 ======
-1. [2024.08] Our conference paper "Finding Defective Elements in Intelligent Reflecting Surface via Over-the-Air Measurements" has been accepted by 2024 IEEE Global Communications Conference (GLOBECOM).
+1. [2024.08] Our conference paper "Finding Defective Elements in Intelligent Reflecting Surface via Over-the-Air Measurements" has been accepted by 2024 IEEE Global Communications Conference (GLOBECOM). It is my first first-authored conference paper. Cheers!
