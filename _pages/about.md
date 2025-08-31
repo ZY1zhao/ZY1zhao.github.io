@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD candidate from Department of Electrical and Electronic Engineering, the Hong Kong Polytechnic University, supervised by Dr. Liang LIU. I obtained the Bachelor's degree in 2021 and Master's degree in 2023, both from Harbin Institute of Technology.
+I am a third-year PhD candidate from Department of Electrical and Electronic Engineering, the Hong Kong Polytechnic University, supervised by Dr. Liang LIU. I obtained the Bachelor's degree in 2021 and Master's degree in 2023, both from Harbin Institute of Technology.
 
 Publications
 =====
