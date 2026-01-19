@@ -11,7 +11,8 @@ I am a third-year PhD candidate from Department of Electrical and Electronic Eng
 
 Publications
 =====
-1. Z. Zhao, Z. Wang, S. Zhang and L. Liu, "Finding Defective Elements in Intelligent Reflecting Surface via Over-the-Air Measurements," in Proc. IEEE Global Commun. Conf. (GLOBECOM), Dec. 2024, pp. 656-661.([link](https://ieeexplore.ieee.org/document/10901577))
+1. Z. Zhao, J. Gao, Y.-F. Liu, S. Zhang and L. Liu, "Covariance-based signal processing approach for over-the-air diagnosis of intelligent reflecting surface", accepted by Proc. IEEE Int. Conf. Commun. (ICC). 
+2. Z. Zhao, Z. Wang, S. Zhang and L. Liu, "Finding Defective Elements in Intelligent Reflecting Surface via Over-the-Air Measurements," in Proc. IEEE Global Commun. Conf. (GLOBECOM), Dec. 2024, pp. 656-661.([link](https://ieeexplore.ieee.org/document/10901577))
 
 News
 ======
