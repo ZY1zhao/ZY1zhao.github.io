@@ -11,8 +11,7 @@ I am a third-year PhD candidate from Department of Electrical and Electronic Eng
 
 Publications
 =====
-3. Z. Zhao, Z. Wang, L. Zhou, C. Sun, S. Zhang, N. Al-Dhahir, and L. Liu, "Over-the-Air Diagnosis of Defective Elements in Intelligent Reflecting Surface," IEEE Trans. Wireless Commun., vol. 25, pp. 16947-16963, 2026.
-
+3. Z. Zhao, Z. Wang, L. Zhou, C. Sun, S. Zhang, N. Al-Dhahir, and L. Liu, "Over-the-Air Diagnosis of Defective Elements in Intelligent Reflecting Surface," IEEE Trans. Wireless Commun., vol. 25, pp. 16947-16963, 2026.([link](https://ieeexplore.ieee.org/document/11515019))
 2. Z. Zhao, J. Gao, Y.-F. Liu, S. Zhang and L. Liu, "Covariance-based signal processing approach for over-the-air diagnosis of intelligent reflecting surface", accepted by Proc. IEEE Int. Conf. Commun. (ICC). 
 1. Z. Zhao, Z. Wang, S. Zhang and L. Liu, "Finding defective elements in intelligent reflecting surface via over-the-air measurements," in Proc. IEEE Global Commun. Conf. (GLOBECOM), Dec. 2024, pp. 656-661.([link](https://ieeexplore.ieee.org/document/10901577))
 
